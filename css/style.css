@@ -1,4 +1,10 @@
 body {
     font-family: Verdana, sans-serif;
     background-color: black;
+    color: white;
+    text-align: center;
+}
+
+video {
+    background-color: white;
 }
